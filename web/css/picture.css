@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.card1for{
+    background-image: url(../images/forest\ \(1\).JPG);
+}
+
+.fourpic{
+    display:flex;
+    margin:30px 10px 30px;
+
+}
+
+.pic1,.pic2,.pic3,.pic4{
+    padding:0 20px 0;
+}
